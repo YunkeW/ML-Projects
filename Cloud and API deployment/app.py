@@ -14,4 +14,4 @@ model = GradientBoostingRegressor(
 model.fit(X_train, y_train)
 
 # save the model
-joblib.dump(model, "model.joblib")
+joblib.dump(model, "model.pkl")
