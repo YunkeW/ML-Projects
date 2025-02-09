@@ -1,6 +1,3 @@
-Here's a draft for your **README.md** file for the **G2M Insight for Cab Investment Firm** project:  
-
-```markdown
 # G2M Insight for Cab Investment Firm
 
 ## Project Overview
@@ -64,51 +61,3 @@ The **EDA.ipynb** notebook explores key aspects of cab usage trends, customer be
 ### **Final Recommendation: Invest in Yellow Cab.**
 
 ## Repository Structure
-```
-📂 G2M_Cab_Investment
-│── 📄 README.md              # Project documentation
-│── 📄 Data Intake Report_VI.pdf # Data intake summary
-│── 📄 G2M.pptx               # Presentation slides
-│── 📄 EDA.ipynb              # Jupyter Notebook for Exploratory Data Analysis
-│── 📂 Data
-│   ├── Cab_Data.csv          # Transaction details
-│   ├── Customer_ID.csv       # Customer demographic mapping
-│   ├── Transaction_ID.csv    # Transaction mapping
-│   ├── City.csv              # US city details
-```
-
-## How to Run the Analysis
-1. **Clone the repository**:  
-   ```bash
-   git clone https://github.com/your-repo/G2M_Cab_Investment.git
-   cd G2M_Cab_Investment
-   ```
-
-2. **Install dependencies**:  
-   Open `EDA.ipynb` and install necessary Python libraries if not already available:
-   ```python
-   pip install pandas numpy matplotlib seaborn
-   ```
-
-3. **Run the Jupyter Notebook**:
-   ```bash
-   jupyter notebook EDA.ipynb
-   ```
-
-4. **Explore insights**:
-   - View charts, statistics, and business recommendations in **EDA.ipynb**.
-   - Refer to **G2M.pptx** for a summary of findings.
-
-## Authors & Contributions
-- **Data Analysis & Reporting**: [Your Name]
-- **Presentation & Insights**: [Your Team/Organization]
-- **Review & Approval**: [Project Lead]
-
-## License
-This project is for educational and analytical purposes. **No real investment decisions should be made based on this analysis.**
-
----
-🚖 **Go-to-Market Strategy | Data-Driven Cab Investment Analysis**
-```
-
-This README provides a structured, professional, and detailed overview of the **G2M Insight for Cab Investment Firm** project. Let me know if you'd like any modifications! 🚀
