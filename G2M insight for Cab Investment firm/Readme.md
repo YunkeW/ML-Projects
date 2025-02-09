@@ -57,7 +57,3 @@ The **EDA.ipynb** notebook explores key aspects of cab usage trends, customer be
 | Which company has more loyal customers?       | **Yellow Cab** has a higher number of repeat customers. | **Yellow Cab** |
 | Which company dominates in most cities?       | **Yellow Cab dominates all cities** except for a few. | **Yellow Cab** |
 | Will Yellow Cab be more profitable in the future? | Yes. Given its **higher profitability, pricing power, and loyal customer base**, Yellow Cab is a better long-term investment. | **Yellow Cab** |
-
-### **Final Recommendation: Invest in Yellow Cab.**
-
-## Repository Structure
