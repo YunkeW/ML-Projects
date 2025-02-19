@@ -43,9 +43,8 @@ The **EDA.ipynb** notebook explores key aspects of cab usage trends, customer be
 
 ### 5. **Profitability Analysis**
 - **Formula:**  
-  \[
-  \text{Profitability} = \frac{\text{Price Charged} - \text{Cost of Trip}}{\text{Cost of Trip}}
-  \]
+ Profitability = Price Charged - Cost of Trip
+
 - **Yellow Cab** has a **higher profitability ratio** than Pink Cab.
 - It converts a greater portion of revenue into profit.
 
